@@ -143,7 +143,7 @@ i{
 .surgery img {
   width: 100%;
   border: 1px solid #e5e7e5;
-  /*border-top-right-radius: 2em;*/
+  border-top-right-radius: 2em;
 }
 .surgery1 {
   width: 50%;
@@ -151,7 +151,7 @@ i{
   font-size: 1.3em;
   text-align: left;
   border: 1px solid #e5e7e5;
-  /*border-top-left-radius: 2em;*/
+  border-top-left-radius: 2em;
   padding: 4em 0em 4em 4em;
   }
   /*.surgery1{
@@ -161,6 +161,7 @@ i{
   .open {
     display: flex;
     margin: 0;
+    padding: 4em 4em 0 4em;
 }
 .surgery {
   width: 50%;
@@ -177,6 +178,7 @@ background-color: blue;
 .car {
   display: flex;
   margin: 0; 
+    padding: 0 4em 0 4em;
 }
 .consult {
 width: 50%;
